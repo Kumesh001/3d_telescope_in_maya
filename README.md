@@ -1,2 +1,1 @@
-# 3d_telescope_in_maya
-Maya project
+# 3D Telescope With Rigging and Textured in Maya
